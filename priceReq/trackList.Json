@@ -1,0 +1,326 @@
+﻿{
+  "MainAlertPrice": "600",
+  "BrowserExePath": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+  "BrowserOpenWhenAlert" : "true",
+  "ProductList": [
+    {
+      "Name": "Gigabyte GeForce RTX 3070 Gaming OC 8 GB Grafikkarte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08KHL21CV/?coliid=I36AXATF1F5HDB&colid=3DUVTULSURRGP&psc=1&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC.",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LBVNKT1/?coliid=I1ZN9PGIJ2FIH0&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "GeForce RTX 3070 Ventus 2X OC.",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LNQTSCT/?coliid=I26F2VGMX1EZFF&colid=3DUVTULSURRGP&psc=1&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ZOTAC Gaming GeForce RTX 3060 Ti Twin Edge OC 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Grafikkarte, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop ZT-A30610H-10M",
+      "Url": "https://www.amazon.de/-/tr/dp/B08P3V572B/?coliid=IV10F7S3ICHPZ&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "MSI RTX 3070 Gaming X Trio",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LNPPCWJ/?coliid=IJ72XVJW48Y8E&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "KFA2 Nvidia GeForce RTX 3060 Ti EX, 1 Click OC, 8 GB GDDR6 PCI-Express Gaming Grafikkarte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08QRNY8JR/?coliid=I28RV21W35L7V9&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "GeForce RTX 3070 Ventus 3X OC.",
+      "Url": "https://www.amazon.de/-/tr/dp/B08L6PCZTR/?coliid=I20S0SSPL7A3US&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ASUS TUF GeForce RTX 3070 8GB OC Edition oyun grafik kartı (PCIe 4.0, GDDR6 bellek, 2x HDMI 2.1, 3x DisplayPort 1.4a, TUF-RTX3070-O8G-GAMING)",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LLG9KQT/?coliid=I3S7Y0NYDDMWDD&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Gigabyte AORUS GeForce RTX 3070 Master 8GB Grafikkarte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LNY8P5L/?coliid=IUF85HXM7PSM9&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "MSI Gaming GeForce RTX 3070 8GB GDRR6 256-Bit HDMI/DP TORX Lüfter 3.0 Ampere Architektur OC Grafikkarte (RTX 3070 Ventus 3X OC)",
+      "Url": "https://www.amazon.de/-/tr/dp/B08KWLMZV4/?coliid=I1N0LB10K3CA5B&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Palit GeForce RTX 3070 GamingPro 8 GB GDDR6 Ray-Tracing grafik kartı, 5888 Core, 1500 MHz GPU, 1725 Boost, 3 x DisplayPort, HDMI, TurboFan 3.0.",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LDS72P2/?coliid=I2FRSR5UV6XHL9&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "EVGA 08G-P5-3767-KR GeForce RTX 3070 FTW3 Ultra Gaming, 8GB GDDR6, iCX3 Technologie, ARGB LED, Metall-Rückplatte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08L8L9TCZ/?coliid=I1WA7B4DPCO9IG&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "KFA2 Nvidia GeForce RTX 3070 SG Serious Gaming Series 8GB GDDR6 PCI-Express Grafikkarte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LNW8RR4/?coliid=I1Z4V402AFVKI8&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ANJJ Grafik kartı FIT IGAME GeForce RTX 3070 Advanced OC 8G GDDR6 256bit video oyun bilgisayarı grafik kartı desteği PCI Express 4.0 HDMI/DP",
+      "Url": "https://www.amazon.de/-/tr/dp/B08SHQQ4BD/?coliid=I1WHUX1396YKOV&colid=3DUVTULSURRGP&psc=1&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Gigabyte GeForce RTX 3070 Vision OC 8GB Grafikkarte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LNWPYRS/?coliid=I38G66DEFP2U82&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "MSI Gaming GeForce RTX 3060 Ti 8GB GDRR6 256-Bit HDMI/DP Tri-Frozr 2 TORX Lüfter 4.0 Ampere Architektur RGB OC Grafikkarte (RTX 3060 Ti Gaming X Trio)",
+      "Url": "https://www.amazon.de/-/tr/dp/B08P2D3JSG/?coliid=I3BIU0QU6WWLUY&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Palit GeForce RTX 3070 GameRock 8GB GDDR6 Grafikkarte mit ARGB SYNC, Angel ARGB, 5888 Core, 1500MHz GPU, 1725MHz Boost, 3X DisplayPort, HDMI, Dual BIOS, 0dB Tech",
+      "Url": "https://www.amazon.de/-/tr/dp/B08NT9WQBG/?coliid=I2AUPEC1689OV9&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "MSI GeForce RTX 3060 TI Gaming X Trio",
+      "Url": "https://www.amazon.de/-/tr/dp/B08NW32F74/?coliid=IGI2SCV4XDW4H&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "MSI Gaming GeForce RTX 3060 Ti 8GB GDRR6 256-Bit HDMI/DP TORX Lüfter 3.0 Ampere Architektur OC Grafikkarte (RTX 3060 Ti Ventus 2X OC)",
+      "Url": "https://www.amazon.de/-/tr/dp/B08P2DQ28S/?coliid=INGY6E00ZZX5L&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "INNO3D Grafik kartı GeForce RTX 3070 iChill X4 8GB GDDR6 256-bit 3xDP+HDMI",
+      "Url": "https://www.amazon.de/-/tr/dp/B08N4V68NX/?coliid=I1G67Q7NOADH12&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Zotac Gaming GeForce RTX 3060 Ti Twin Edge, ZT-A30610E-10M",
+      "Url": "https://www.amazon.de/-/tr/dp/B08P34VCVN/?coliid=IBACN405OL8S3&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Inno3D GeForce RTX 3070 Twin X 2 OC.",
+      "Url": "https://www.amazon.de/-/tr/dp/B08NZ5FN7Q/?coliid=IR96QX2GV8YJO&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Gainward Geforce RTX 3070 Phantom - 8 GB GDDR6 - 256 Bit",
+      "Url": "https://www.amazon.de/-/tr/dp/B08LQ6F4QR/?coliid=I29OO5AFOS9MAX&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ASUS TUF Gaming GeForce RTX 3060 TI OC Edition grafik kartı (Nvidia Amper, DLSS, PCIe 4.0, 8 GB DDR6 bellek, 2 x HDMI 2.1, DisplayPort 1.4, TUF-RTX3060TI-O8G-GAMING)",
+      "Url": "https://www.amazon.de/-/tr/dp/B08NZ4G4T2/?coliid=I38S8HB5DCAHXP&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ZOTAC Gaming GEFORCE RTX 3070 Twin Edge OC White Edition 8GB GDDR6",
+      "Url": "https://www.amazon.de/-/tr/dp/B08P7ZKQPP/?coliid=I6KK0P8QKH8L7&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Gigabyte GeForce RTX 3070 Eagle OC 8 GB Grafikkarte",
+      "Url": "https://www.amazon.de/-/tr/dp/B08KHL2J5X/?coliid=I1NWLHVBJWD8TQ&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "PNY GeForce RTX™ 3070 8GB XLR8 Gaming Revel EPIC-X RGB™ Triple Fan Grafik Kartı",
+      "Url": "https://www.amazon.de/-/tr/dp/B08HBJB7YD/?coliid=I2J56V5SVBO3K1&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "Palit RTX 3060 Ti Dual 8G GDDR6 Ray-Tracing Grafikkarte, 4864 Core, 1410MHz GPU, 1665MHz Boost, 3X DisplayPort, HDMI",
+      "Url": "https://www.amazon.de/-/tr/dp/B08PFZ28CN/?coliid=I21FCT4GP0OSJ4&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ZOTAC Gaming GeForce RTX 3060 Ti Twin Edge 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Grafikkarte, IceStorm 2.0 Advanced Cooling, Active Fan Control, ZT-A30610E-10M",
+      "Url": "https://www.amazon.de/-/tr/dp/B08P3XJLJJ/?coliid=I3O5U6TI23G3O4&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "MSI RTX3060 TI Ventus 2X OC 8GB GDDR6 HDMI 3xDP",
+      "Url": "https://www.amazon.de/-/tr/dp/B08NW2YJB2/?coliid=I1PFQPXIUQH8SE&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ASUS ROG-STRIX-RTX3070-O8G Oyun",
+      "Url": "https://www.amazon.de/-/tr/dp/B08KHHF881/?coliid=IBIMSTRJ302QU&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+    {
+      "Name": "ASUS TUF GeForce RTX 3070 8 GB oyun grafik kartı (Nvidia Amper, PCIe 4.0, DLSS, Raytracing, GDDR6 bellek, 2x HDMI 2.1, 3x DisplayPort 1.4a, TUF-RTX3070-8G-GAMING)",
+      "Url": "https://www.amazon.de/dp/B08MWS59K8/?coliid=I1HKANTRX1JCCB&colid=3DUVTULSURRGP&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.de",
+      "AlertPrice": "600"
+    },
+
+    {
+      "Name": "ASUS GEFORCE DUAL-RTX3060TI-O8G 8GB GDDR6 256bit 1740MHz OC 2xHDMI 3xDP RGB EKRAN KARTI",
+      "Url": "https://www.amazon.com.tr/dp/B08NZ523M9/?coliid=I6NNGDSN7CE2M&colid=NTA2G3PWP91W&psc=1&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ASUS GEFORCE DUAL-RTX3070-8G 8GB GDDR6 256bit OC 2xHDMI 3xDP RGB EKRAN KARTI",
+      "Url": "https://www.amazon.com.tr/dp/B08HSJ1622/?coliid=I2LY1923YRL367&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ASUS GEFORCE DUAL-RTX3070-O8G 8GB GDDR6 256bit OC 2xHDMI 3xDP RGB EKRAN KARTI",
+      "Url": "https://www.amazon.com.tr/dp/B08KHFZN9P/?coliid=I19TER4N6589DL&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "Palit RTX3060Ti DUAL 8GB 256Bit GDDR6 Ekran Kartı",
+      "Url": "https://www.amazon.com.tr/dp/B08PFZ28CN/?coliid=I3FF6EJX8KYFJD&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ASUS GEFORCE TUF-RTX3060TI-O8G-GAMING 8GB GDDR6 256bit 1785MHz OC 2xHDMI 3xDP RGB EKRAN KARTI",
+      "Url": "https://www.amazon.com.tr/dp/B08NZ4G4T2/?coliid=I2NELWVGAH8IV1&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "Gigabyte GeForce RTX 3060 Ti Gaming OC PRO 8GB ekran kartı",
+      "Url": "https://www.amazon.com.tr/dp/B08P3JL63Y/?coliid=I1Q7M6UWAJDOR&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "INNO3D GeForce RTX 3070 iChill X4 8GB GDDR6 256-bit 3xDP+HDMI",
+      "Url": "https://www.amazon.com.tr/dp/B08N4V68NX/?coliid=I1CIYZ9FPLRM5E&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ZOTAC Gaming GeForce RTX 3060 Ti Twin Edge.",
+      "Url": "https://www.amazon.com.tr/dp/B08P34VCVN/?coliid=ISO8607JDW272&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC.",
+      "Url": "https://www.amazon.com.tr/dp/B08LBVNKT1/?coliid=I2A10M03RVZREG&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "Palit RTX3070 GAMEROCK 8GB 256Bit GDDR6",
+      "Url": "https://www.amazon.com.tr/dp/B08NT9WQBG/?coliid=I1NW9R0IAG9G0Q&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "INNO3D GEFORCE RTX 3060 Ti TWIN X2 OC Ekran Kartı",
+      "Url": "https://www.amazon.com.tr/dp/B08PG15K8S/?coliid=I22P33CJRLNO8M&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ASUS GEFORCE ROG-STRIX-RTX3060TI-O8G-GAMING 8GB GDDR6 256bit 1890MHz OC 2xHDMI 3xDP RGB EKRAN KARTI",
+      "Url": "https://www.amazon.com.tr/dp/B08NW3TVRT/?coliid=I2PEIUSI3IY6PX&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "GeForce RTX 3070 GAMING X TRIO",
+      "Url": "https://www.amazon.com.tr/dp/B08LNPPCWJ/?coliid=I3I94L7R13QB8&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "Gigabyte GeForce RTX 3070 EAGLE OC 8 GB ekran kartı",
+      "Url": "https://www.amazon.com.tr/dp/B08KHL2J5X/?coliid=I21ISFXWE61J58&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "GeForce RTX 3070 VENTUS 3X OC",
+      "Url": "https://www.amazon.com.tr/dp/B08L6PCZTR/?coliid=I2XGN5O0X4RZCE&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "ASUS GEFORCE TUF-RTX3070-O8G-GAMING 8GB GDDR6 256bit OC 2xHDMI 3xDP EKRAN KARTI",
+      "Url": "https://www.amazon.com.tr/dp/B08LLG9KQT/?coliid=I2LCZDN5FY9VV6&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "GeForce RTX 3070 VENTUS 2X OC",
+      "Url": "https://www.amazon.com.tr/dp/B08LNQTSCT/?coliid=I1E1P6FT9C147O&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "GIGABYTE GVN3070GAMINGOC8GD RTX3070 GAMING 8GB 256B GDDR6 PCI-E",
+      "Url": "https://www.amazon.com.tr/dp/B08KHL21CV/?coliid=I25L3G1ZQH5E5V&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "MSI VGA GEFORCE RTX 3060 TI VENTUS 2X OC RTX3060TI 8GB GDDR6 256B DX12 PCIE 4.0 X16 (3XDP 1XHDMI)",
+      "Url": "https://www.amazon.com.tr/dp/B08NW2YJB2/?coliid=I13H8YR99RG7AD&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "MSI VGA GEFORCE RTX 3060 TI GAMING X TRIO RTX3060TI 8GB GDDR6 256B DX12 PCIE 4.0 X16 (3XDP 1XHDMI)",
+      "Url": "https://www.amazon.com.tr/dp/B08NW32F74/?coliid=I9HVR33GUG7LO&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    },
+    {
+      "Name": "Gigabyte AORUS GeForce RTX 3070 Master 8GB ekran kartı",
+      "Url": "https://www.amazon.com.tr/dp/B08LNY8P5L/?coliid=I3KK8KFHEBMSJT&colid=NTA2G3PWP91W&psc=0&ref_=lv_vv_lig_dp_it",
+      "Site": "amazon.TR",
+      "AlertPrice": "6000"
+    }
+  ]
+}

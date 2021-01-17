@@ -1,0 +1,17 @@
+﻿
+//*TrackList json prepare
+//Open amazon wishlist then  run this script on Google chrome developer console
+//Take values and paste  trackList.json
+//You should replace the  stars (*******) to your  alert price
+
+var i;
+for (i = 0; i < 32; i++) {
+console.log(
+    "{ \"Name\": \""+ document.getElementsByClassName("a-unordered-list a-nostyle a-vertical a-spacing-none g-items-section ui-sortable")[0].getElementsByClassName("a-spacing-none g-item-sortable")[i].getElementsByClassName("a-link-normal")[1].innerText+ "\""
++
+    " \"Url\": \""+ document.getElementsByClassName("a-unordered-list a-nostyle a-vertical a-spacing-none g-items-section ui-sortable")[0].getElementsByClassName("a-spacing-none g-item-sortable")[i].getElementsByClassName("a-link-normal")[1].href+ "\""
++
+    "\"Site\": \"amazon.de\", "
++ 
+	" \"AlertPrice\": \"*******\" }, ")
+}
